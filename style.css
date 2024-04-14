@@ -1,0 +1,118 @@
+body{
+    background-image: url(mybackground.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    
+
+    .image-container {
+        position: absolute;
+        display: inline-block;
+        right: 150px;
+        top: 250px;
+        
+      }
+      .image-container img {
+        display: block;
+        width: 50%;
+        height: auto;
+         
+      }
+      .buys{
+        position: absolute;
+        display: inline-block;
+       left: 800px;
+       top: 200px;
+      
+       
+      }
+      .buys img{
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      .latte{
+        position: absolute;
+        display: inline-block;
+        left: 900px;
+        top: 50px;
+        
+      }
+      .latte img{
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      .mantra{
+        position: absolute;
+        display: inline-block;
+        left: 500px;
+        top: 150px;
+  
+      }
+      .mantra img{
+        display: block;
+        width: 50%;
+        height: auto;
+      }
+      .box{
+        position: absolute;
+        display: inline-block;
+        left: 50px;
+        top: 50px;
+      }
+      .box img{
+        display: block;
+        width: 50%;
+        height: auto;
+      }
+      .food{
+        position: absolute;
+        display: inline-block;
+        top: 200px;
+        left: 200px;
+      }
+      .food img{
+        display: block;
+        width: 50%;
+        height: auto;
+      }
+      .love{
+        position: absolute;
+        display: inline-block;
+        left: 400px;
+        top: 400px;
+      }
+      .love img{
+        display: block;
+        width: 50%;
+        height: auto;
+      }
+      .study{
+        position: absolute;
+        display: inline-block;
+        left: 900px;
+        top: -20px;
+      }
+      .study img{
+        display: block;
+        width: 70%;
+        height: auto;
+      }
+      .shoes{
+        position: absolute;
+        display: inline-block;
+        left: 500px;
+        top: -30px;
+      }
+      .shoes img{
+        display: block;
+        width: 40%;
+        height: auto;
+      }
+
+      
+
+}
